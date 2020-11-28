@@ -1,0 +1,5 @@
+{
+    "name": "Practica Web Services",
+    "description": "CRUD lista de tareas",
+    "keywords": ["node", "graphql", "heroku"]
+  }
